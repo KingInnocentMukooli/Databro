@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: databro
+Version: 0.1.0
+Summary: A comprehensive data science library for analysis and visualization
+Author: Your Name
+Requires-Python: >=3.8
